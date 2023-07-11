@@ -25,9 +25,9 @@ This build is based on [Dortania's OpenCore Install Guide](https://dortania.gith
 * **CPU Cooler:** Cooler Master Hyper TX3
 * **Motherboard:** Gigabyte Z490M Gaming X
 * **Memory:** 32 GB DDR4-2600
-* **Storage (macOS):** Samsung 970 Evo 250 TB
-* **Storage (Linux):** Samsung 970 Evo 120 TB
-* **Storage (Windows):** Samsung 970 Evo 120 TB
+* **Storage (macOS):** Samsung 970 Evo 250 GB
+* **Storage (Linux):** Samsung 970 Evo 120 GB
+* **Storage (Windows):** Samsung 970 Evo 120 GB
 * **Video Card:** Gigabyte Radeon RX 5700 XT 8 GB
 * **Keyboard:** Logitech G420 SILVER
 * **Mouse:** Logitech G305 Wireless
